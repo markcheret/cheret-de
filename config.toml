@@ -1,4 +1,4 @@
-baseURL = "https://cheret-communications.github.io/cheret-de/"
+baseURL = "https://new.cheret.de"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
