@@ -114,4 +114,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://cheret.de/sitemap.xml
+Sitemap: https://cheret-communications.github.io/sitemap.xml
