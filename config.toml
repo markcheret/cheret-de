@@ -28,7 +28,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    copyright = "This work is licensed under the MIT License."
     # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -74,14 +74,6 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 5
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/upagge/ublogger"
-        title = "GitHub"
-        weight = 6
     [languages.en.params]
       # site description
       description = "Cyber Security Consultant | Online Content Creator | Exponential Coach"
@@ -130,7 +122,7 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
+          gravatarEmail = "mark@cheret.de"
           # URL of avatar shown in home page
           avatarURL = "/images/20191020_Portrait_Mark_Cheret_Full.jpg"
           # title shown in home page (HTML format is supported)
@@ -227,10 +219,8 @@ enableEmoji = true
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/markcheret/footnotes"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
-  # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
-  # 日期格式
   dateFormat = "02/01/2006"
   # website images for Open Graph and Twitter Cards
     images = ["/logo.png"]
@@ -244,9 +234,9 @@ enableEmoji = true
     # Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "CHERET-Logo.svg"
       # title name
-      name = "Mark Cheret"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -258,7 +248,7 @@ enableEmoji = true
     # Custom content (HTML format is supported)
     custom = ''
     # whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # whether to show copyright info
     copyright = true
     # whether to show the author
@@ -268,7 +258,7 @@ enableEmoji = true
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>'
 
   # Section (all posts) page config
   [params.section]
