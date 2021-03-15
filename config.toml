@@ -86,7 +86,7 @@ enableEmoji = true
       # site description
       description = "Cyber Security Consultant | Online Content Creator | Exponential Coach"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Security", "Cloud"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -468,7 +468,7 @@ enableEmoji = true
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Mark Cheret"
         logoUrl = "/images/avatar.png"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
@@ -503,7 +503,7 @@ enableEmoji = true
       # server url for your tracker if you're self hosting
       server = ""
     [params.analytics.yandex]
-      id = "70532758"
+      id = ""
 
   # Cookie consent config
   [params.cookieconsent]
