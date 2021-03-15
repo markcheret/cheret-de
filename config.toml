@@ -228,7 +228,7 @@ enableEmoji = true
   google_fonts = [
     ["Allerta Stencil", "300, 400, 700"],
   ]
-
+  font = "Allerta Stencil"
   # Header config
     [params.header]
     # desktop header mode ("fixed", "normal", "auto")
