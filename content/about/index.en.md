@@ -8,7 +8,7 @@ draft: false
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
 <div style="vertical-align:middle; align:center;">
-<img src="/images/20191020_Portrait_Mark_Cheret_Circle.png" alt="Mark Cheret Portrait" style="width:350px;"/>
+<img src="/images/portrait_Mark_Cheret_circle.png" alt="Mark Cheret Portrait" style="width:350px;"/>
 </div>
 <div>
 
