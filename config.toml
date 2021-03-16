@@ -158,8 +158,8 @@ enableEmoji = true
         Reddit = ""
         Codepen = ""
         FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
+        Bitbucket = "markcheret"
+        Stackoverflow = "2907686/mark-cheret"
         Weibo = ""
         Odnoklassniki = ""
         VK = ""
@@ -206,7 +206,7 @@ enableEmoji = true
         Discord = "MarksmanGwB#7152"
         Leanpub = ""
         Udemy = ""
-        RSS = false
+        RSS = true
         [languages.en.params.social.Mastodon]
           id = "@markcheret"
           prefix = "https://noc.social/"
@@ -262,14 +262,14 @@ enableEmoji = true
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="/legal/license" target="_self">MIT</a>'
 
   # Section (all posts) page config
   [params.section]
     # special amount of posts in each section page
     paginate = 20
     # date format (month and day)
-    dateFormat = "01-02"
+    dateFormat = "02/01"
     # amount of RSS pages
     rss = 10
 
