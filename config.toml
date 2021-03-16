@@ -59,14 +59,6 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
@@ -122,7 +114,7 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "mark@cheret.de"
+          gravatarEmail = ""
           # URL of avatar shown in home page
           avatarURL = "/images/20191020_Portrait_Mark_Cheret_Full.jpg"
           # title shown in home page (HTML format is supported)
