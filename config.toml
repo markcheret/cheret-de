@@ -41,7 +41,7 @@ enableEmoji = true
         url = "/posts/"
         # title will be shown when you hover on this menu link.
         title = ""
-        weight = 1
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "tags"
         pre = ""
@@ -49,7 +49,7 @@ enableEmoji = true
         name = "Tags"
         url = "/tags/"
         title = ""
-        weight = 2
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "categories"
         pre = ""
@@ -57,15 +57,15 @@ enableEmoji = true
         name = "Categories"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "About"
         url = "/about/"
-        title = ""
-        weight = 5
+        title = "About Mark Cheret"
+        weight = 1
     [languages.en.params]
       # site description
       description = "Cyber Security Consultant | Online Content Creator | Exponential Coach"
