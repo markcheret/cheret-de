@@ -1,0 +1,7 @@
+---
+title: 'Contact'
+date: Tue, 11 Feb 2014 21:14:16 +0000
+draft: false
+---
+
+\[vc\_row\]\[vc\_column\]\[vc\_column\_text\]Here are your options to get in touch with me. If you want to talk to me in person, pick a time that fits your schedule. Otherwise, link up on social media or use the contact form.\[/vc\_column\_text\]\[vc\_raw\_html\]JTNDJTIxLS0lMjBDYWxlbmRseSUyMGxpbmslMjB3aWRnZXQlMjBiZWdpbiUyMC0tJTNFJTBBJTNDbGluayUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRmFzc2V0cy5jYWxlbmRseS5jb20lMkZhc3NldHMlMkZleHRlcm5hbCUyRndpZGdldC5jc3MlMjIlMjByZWwlM0QlMjJzdHlsZXNoZWV0JTIyJTNFJTBBJTNDc2NyaXB0JTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZhc3NldHMuY2FsZW5kbHkuY29tJTJGYXNzZXRzJTJGZXh0ZXJuYWwlMkZ3aWRnZXQuanMlMjIlMjB0eXBlJTNEJTIydGV4dCUyRmphdmFzY3JpcHQlMjIlM0UlM0MlMkZzY3JpcHQlM0UlMEElM0NhJTIwaHJlZiUzRCUyMiUyMiUyMG9uY2xpY2slM0QlMjJDYWxlbmRseS5pbml0UG9wdXBXaWRnZXQlMjglN0J1cmwlM0ElMjAlMjdodHRwcyUzQSUyRiUyRmNhbGVuZGx5LmNvbSUyRm1hcmtjaGVyZXQlMjclN0QlMjklM0JyZXR1cm4lMjBmYWxzZSUzQiUyMiUzRVNjaGVkdWxlJTIwdGltZSUyMHdpdGglMjBtZSUyMGJ5JTIwY2xpY2tpbmclMjB0aGlzJTIwdGV4dCUzQyUyRmElM0UlMEElM0MlMjEtLSUyMENhbGVuZGx5JTIwbGluayUyMHdpZGdldCUyMGVuZCUyMC0tJTNF\[/vc\_raw\_html\]\[vc\_column\_text\]You can also find my social media links at the bottom of the page. Or use this contact form to send me an email. \[contact-form-7 id="29867" title="Contact"\]\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]
