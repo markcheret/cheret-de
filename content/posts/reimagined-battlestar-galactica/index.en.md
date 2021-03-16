@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 description: "Coming from a perspective of being one of many serious Star Trek fans who have watched absolutely every episode and movie there is out there, presently I can't tell which of these I like better."
 title: 'my take on "The Reimagined Battlestar Galactica"'
 date: Sun, 12 Jan 2014 19:26:49 +0000
@@ -59,8 +59,8 @@ I've started watching the reimagined Battlestar Galactica series in late 2013 an
 
 ## On the ToDo list
 
-*   All of this has happened before and it will happen again.
-*   Ronald D. Moore deigns himself a cameo in the last minutes of the final episode. Which I liked a lot.
+* All of this has happened before and it will happen again.
+* Ronald D. Moore deigns himself a cameo in the last minutes of the final episode. Which I liked a lot.
 
 ## Admiral's Orders
 
