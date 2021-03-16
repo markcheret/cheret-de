@@ -10,3 +10,4 @@ Stephen Fry is the first human being on planet earth to have registered a .uk do
 ## Right of registration
 
 Those having already registered a .co.uk, .org.uk, .me.uk, .net.uk, .ltd.uk or .plc.uk domain are automatically entitled to claim their corresponding .uk domain. It's automatically reserved for the next five years. If you want to know more, head over to [dotuklaunch.uk](http://www.dotuklaunch.uk/dates-and-definitions)
+

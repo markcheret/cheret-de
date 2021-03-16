@@ -49,8 +49,8 @@ I've started watching the reimagined Battlestar Galactica series in late 2013 an
 
 ## On the ToDo list
 
-*   All of this has happened before and it will happen again.
-*   Ronald D. Moore deigns himself a cameo in the last minutes of the final episode. Which I liked a lot.
+* All of this has happened before and it will happen again.
+* Ronald D. Moore deigns himself a cameo in the last minutes of the final episode. Which I liked a lot.
 
 ## Admiral's Orders
 

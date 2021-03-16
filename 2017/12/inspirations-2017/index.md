@@ -48,3 +48,4 @@ Inspiration is the process of being **mentally stimulated** to do or feel someth
 {{< /admonition >}}
 
 I so wish to make everything that inspired me among the people listed above a part of my life and go on to create more. I want you to be inspired by the traits of the people as mentioned above as well and please let me know about it in the comments. Thanks for reading this.
+
