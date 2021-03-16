@@ -4,16 +4,16 @@ date: Wed, 08 Jun 2016 21:41:42 +0000
 draft: false
 ---
 
-## I'm the catalyst to lead people on a purposeful pathway, so that growth, resources and opportunities are activated.
+> I'm the catalyst to lead people on a purposeful pathway, so that growth, resources and opportunities are activated.
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-<div style="vertical-align:middle; align:center;">
-<img src="/images/portrait_Mark_Cheret_circle.png" alt="Mark Cheret Portrait" style="width:350px;"/>
-</div>
 <div>
 
 I'm a Team Performance Coach and Online Content Creator. I consistently contribute to international training events run by teams distributed across Europe. My activities range from producing one-week-long academies to managing them on-site or remotely, delivering training, or "just participating". I have experience in producing more than 300 videos, as well as applying agile methods in getting various startups from the first ideation to profitable operation.
 
+</div>
+<div style="vertical-align:middle; align:center;">
+<img src="portrait_Mark_Cheret_circle.png" alt="Mark Cheret Portrait" style="width:350px;"/>
 </div>
 </div>
 
