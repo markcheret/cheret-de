@@ -6,6 +6,8 @@ draft: false
 
 > I'm the catalyst to lead people on a purposeful pathway, so that growth, resources and opportunities are activated.
 
+---
+
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
 <div style="padding:15px;">
 
@@ -16,6 +18,8 @@ I'm a Cyber Security Consultant, Online Content Creator and Exponential Coach. I
 <img src="portrait_Mark_Cheret_circle.png" alt="Mark Cheret Portrait" style="width:300px; padding-left:50px;"/>
 </div>
 </div>
+
+---
 
 {{< admonition type="note" title="Values" open="true" >}}
 Purpose | Connection | Growth | Diversity | Adventure
@@ -43,7 +47,7 @@ I provide catalytic tools to strengthen trust in yourself and your fellow teamma
 * My work with teams and individuals in my adaptive coaching programmes
 {{< /admonition >}}
 
-{{< admonition type=success title="Organisations I worked with" open=false >}}
+{{< admonition type=success title="Organisations I work(ed) with" open=false >}}
 Switzerland:
 
 * neon Switzerland AG
