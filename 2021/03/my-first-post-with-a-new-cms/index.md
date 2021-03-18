@@ -1,4 +1,4 @@
-# My first post with a new CMS
+# my first post with a new CMS
 
 
 ## after more than a decade
