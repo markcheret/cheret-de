@@ -2,7 +2,7 @@
 title: 'my take on "Caprica"'
 date: Sat, 08 Feb 2014 20:25:59 +0000
 draft: false
-tags: ['Blog']
+tags: ['my take']
 ---
 
 After having recently finished the "Reimagined Battlestar Galactica" Series (=BSG), it's only logical to carry on watching one of the two prequels that were produced after BSG has aired. These are "Battlestar Galactica: Blood & Chrome" and "Caprica". I decided to watch Caprica first and Blood and Chrome straight after that. As I recently finished watching "Caprica", here's my write-up of thoughts on that particular show.
