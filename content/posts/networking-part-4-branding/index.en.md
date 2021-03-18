@@ -1,6 +1,6 @@
 ---
 title: 'Branding through events (Networking Series Part 4)'
-date: Wed, 19 Oct 2016 21:58:58 +0000
+date: Wed, 20 Oct 2016 21:58:58 +0000
 draft: false
 tags: ['branding', 'networking']
 resources:
