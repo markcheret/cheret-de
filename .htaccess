@@ -1,0 +1,2 @@
+RewriteEngine On
+Redirect 301    /plugins/footnotes-2   https://cheret.org/footnotes
