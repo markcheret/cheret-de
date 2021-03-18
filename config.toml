@@ -1,4 +1,5 @@
 baseURL = "https://cheret.de"
+canonifyURLs = true
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -260,7 +261,7 @@ enableEmoji = true
   [params.section]
     # special amount of posts in each section page
     paginate = 20
-    # date format (month and day)
+    # date format (day and month)
     dateFormat = "02/01"
     # amount of RSS pages
     rss = 10
@@ -269,8 +270,8 @@ enableEmoji = true
   [params.list]
     # special amount of posts in each list page
     paginate = 20
-    # date format (month and day)
-    dateFormat = "01-02"
+    # date format (day and month)
+    dateFormat = "02/01"
     # amount of RSS pages
     rss = 10
 
