@@ -1,7 +1,7 @@
 ---
 title: 'CHERET Communications'
 date: Fri, 16 May 2014 21:36:01 +0000
-draft: false
+draft: true
 ---
 
 \[vc\_row\]\[vc\_column\]\[rev\_slider\_vc alias="team-performance-coach"\]\[vc\_empty\_space height="55px"\]\[/vc\_column\]\[/vc\_row\]\[vc\_row\]\[vc\_column\]\[vc\_text\_separator title="my elevator pitch" i\_type="linecons" i\_icon\_linecons="vc\_li vc\_li-world" i\_color="custom" color="custom" add\_icon="true" i\_custom\_color="#8cc643" accent\_color="#8cc643"\]\[vc\_empty\_space height="55px"\]\[vc\_column\_text\]
