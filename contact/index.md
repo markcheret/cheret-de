@@ -1,4 +1,4 @@
-# Contact
+# contact
 
 
 Here are your options to get in touch with me.

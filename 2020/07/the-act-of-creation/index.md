@@ -1,4 +1,4 @@
-# The act of creation
+# the act of creation
 
 
 The act of creation is the manifestation of invisible potential into actual tangible reality.

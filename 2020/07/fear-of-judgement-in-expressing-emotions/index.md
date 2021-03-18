@@ -1,4 +1,4 @@
-# Fear of judgement in expressing emotions
+# fear of judgement in expressing emotions
 
 
 Fear of judgement in expressing emotions is a very common stance which holds us back from having an honest conversation with others and sometimes even ourselves.

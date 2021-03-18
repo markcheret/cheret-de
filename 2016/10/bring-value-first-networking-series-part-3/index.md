@@ -1,4 +1,4 @@
-# Bring value first (Networking Part 3)
+# Bring value first (Networking Series Part 3)
 
 
 Bring value to your network first the rest will come later. Have you built your valuable and strong network already? If so, you know that seeking to bring value to your network first will make the key difference. People experienced in networking will mostly concur. I’ll list different ways of contributing value to your network in just a second.
