@@ -38,7 +38,7 @@ enableEmoji = true
         pre = ""
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = "Posts"
+        name = "posts"
         url = "/posts/"
         # title will be shown when you hover on this menu link.
         title = ""
@@ -47,7 +47,7 @@ enableEmoji = true
         identifier = "tags"
         pre = ""
         post = ""
-        name = "Tags"
+        name = "tags"
         url = "/tags/"
         title = ""
         weight = 3
@@ -55,7 +55,7 @@ enableEmoji = true
         identifier = "categories"
         pre = ""
         post = ""
-        name = "Categories"
+        name = "categories"
         url = "/categories/"
         title = ""
         weight = 4
@@ -63,9 +63,9 @@ enableEmoji = true
         identifier = "about"
         pre = ""
         post = ""
-        name = "About"
+        name = "about"
         url = "/about/"
-        title = "About Mark Cheret"
+        title = "about Mark Cheret"
         weight = 1
     [languages.en.params]
       # site description

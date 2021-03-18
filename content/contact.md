@@ -1,5 +1,5 @@
 ---
-title: 'Contact'
+title: 'contact'
 date: Tue, 11 Feb 2014 21:14:16 +0000
 draft: false
 menu: main
