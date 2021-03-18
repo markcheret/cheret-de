@@ -17,7 +17,7 @@ My name is Mark and I'm really into Google Analytics, WordPress and Photoshop. 
 
 That definitely made me come across as a tech nerd but not as someone you would hire to solve your technical issue or even involve me as a technical co-founder. Over the course of many of those early introductions and people not really being interested in my business, I've realized that something needed to change!
 
-## Shake it up!
+## Shake it up
 
 I began experimenting a bit and changed the perspective. I no longer told people about the technologies I  used or how much research I did on technical issues. I've started to use examples of how I solved a problem and that I could help a business out. Here's what the elevator pitch changed to:
 
@@ -27,7 +27,7 @@ Hi I'm Mark and I use state of the art tech to help your business understand who
 
 So this really gave everyone a perspective on how they could involve me to solve their specific problem. It made me relatable. However it locked the perception of me in to the example I was using. With this intro everyone thought I can help them identify their target audience for their website and how to market to them. Which is such a small bandwidth of opportunities.
 
-## Broader, personal and wow!
+## Broader, personal and wow
 
 Fast forward to now and I make it sound broader, a bit bigger and I also throw in a bit of a mystery and open endedness:
 
