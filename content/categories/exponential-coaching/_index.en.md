@@ -1,3 +1,3 @@
 ---
-title: "Exponential Coaching"
+title: "exponential coaching"
 ---

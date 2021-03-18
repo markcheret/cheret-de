@@ -6,6 +6,7 @@ date: Sun, 12 Jan 2014 19:26:49 +0000
 lastmod: Tue, 16 Mar 2021 04:43:22 +0100
 draft: false
 tags: ['review']
+categories: ['online content']
 resources:
 - name: "featured-image"
   src: "bsg_seal.jpeg"

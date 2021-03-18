@@ -1,5 +1,5 @@
 ---
-title: 'The act of creation'
+title: 'the act of creation'
 date: Wed, 15 Jul 2020 12:37:06 +0000
 draft: false
 resources:
