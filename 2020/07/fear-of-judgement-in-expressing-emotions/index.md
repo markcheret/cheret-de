@@ -15,7 +15,7 @@ When someone is sharing their emotions with you, all they need is to be heard an
 
 ## Asking for safe space
 
-When you are sharing your emotions it's OK that there are illogical and you might not be able to explain them. It is safe for you to ask the other person to hold space for you and just be there.
+When you are sharing your emotions it's OK that they are illogical and you might not be able to explain them. It is safe for you to ask the other person to hold space for you and just be there.
 
 I give you permission to express your emotions and accept them. They are what they are. You feel how you feel.
 
