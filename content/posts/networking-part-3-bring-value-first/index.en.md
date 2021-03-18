@@ -1,8 +1,12 @@
 ---
-title: 'Bring value first (Networking Part 3)'
+title: 'Bring value first (Networking Series Part 3)'
 date: Wed, 19 Oct 2016 06:00:21 +0000
 draft: false
-tags: ['Blog', 'networking', 'value']
+tags: ['networking', 'value']
+resources:
+- name: "featured-image"
+  src: "networking-part-3-bring-value-first.png"
+categories: ['exponential coaching', 'networking series']
 ---
 
 Bring value to your network first the rest will come later. Have you built your valuable and strong network already? If so, you know that seeking to bring value to your network first will make the key difference. People experienced in networking will mostly concur. I’ll list different ways of contributing value to your network in just a second.
