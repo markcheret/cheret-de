@@ -8,7 +8,7 @@ tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "/images/LBPC-header.jpg"
+  src: "lbpc-header.jpg"
 lang: "de"
 url: "2015/04/lbpc-037-ethical-fashion-mit-fikay/"
 upd: "This is a post from the archives of my German website."
