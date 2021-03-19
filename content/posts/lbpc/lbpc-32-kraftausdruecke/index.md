@@ -2,13 +2,13 @@
 title: 'LBPC#032 - Kraftausdrücke'
 date: Sun, 17 Feb 2015 15:50:44 +0000
 lastmod: Fri, 19 Mar 2021 02:30:02 +0100
-description: "I'm continuing my tradition of reflecting who inspired me in the past year and why."
+description: "Aus dem Archiv des Lifebeat podcast: Folge 32 - Kraftausdrücke"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "LBPC-header.jpg"
+  src: "/images/LBPC-header.jpg"
 lang: "de"
 url: "2015/02/lbpc-032-kraftausdruecke/"
 upd: "This is a post from the archives of my German website."
@@ -16,7 +16,7 @@ upd: "This is a post from the archives of my German website."
 
 ## LBPC#032 &#8211; Kraftausdrücke
 
-{{< music url="LBPC032.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="lifebeat-logo180.jpg" >}}
+{{< music url="LBPC032.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
