@@ -3,7 +3,7 @@ weight: 1
 title: 'pain and pleasure'
 date: Wed, 19 Aug 2020 19:51:23 +0100
 lastmod: Sat, 20 Mar 2021 10:02:04 +0100
-description: "I'm starting a new tradition of reflecting on who inspired me in the past year and why."
+description: "Finding a way to journey through pain in the present moment to achieve fulfilment in the long term."
 draft: false
 tags: ['pain','pleasure', 'punishment', 'reward']
 categories: ['exponential coaching']
@@ -89,6 +89,7 @@ According to prominent research, anyone grieving the loss of a loved one or comi
 3. Bargaining
 4. Depression
 5. Acceptance
+
 </div>
 <div style="padding:5px;">
 
