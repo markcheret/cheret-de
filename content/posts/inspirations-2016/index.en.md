@@ -10,7 +10,9 @@ resources:
 upd: "complete overhaul of how tweets and videos are embedded for a better experience."
 ---
 
+{{< admonition type="success" title="Why write a piece like this?" open="true" >}}
 I'm convinced that we all have our inspirations. We're inspired by actions, ways of thinking and creations of other people. At least that's what I'm experiencing. We socialize all the time and gravitate towards like minded people. The internet has brought us closer together. Everyone can express themselves freely and without any gatekeeper these days. Of course this makes for a lot of content in varying degrees of quality which permanently tries to gain our attention. In this piece I want to show you the people who inspired me most in 2016 and why. Some of them changed the way I produce my content, some of them inspired my thinking and all of them confirm a few things I've always known to be true.
+{{< /admonition >}}
 
 ## [Casey Neistat](http://casey.nyc)
 
