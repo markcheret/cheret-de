@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: 'fear of judgement in expressing emotions'
 date: Thu, 09 Jul 2020 11:56:28 +0000
 draft: false
