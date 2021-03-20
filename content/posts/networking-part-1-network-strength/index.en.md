@@ -2,7 +2,7 @@
 title: 'Network strength (Networking Series Part 1)'
 date: Mon, 17 Oct 2016 09:53:25 +0000
 draft: false
-tags: ['contribution', 'Network', 'networking', 'strength']
+tags: ['contribution', 'networking', 'strength']
 resources:
 - name: "featured-image"
   src: "networking-part-1-network-strength.png"
