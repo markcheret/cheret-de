@@ -1,8 +1,13 @@
 ---
 title: 'Inspirations 2016'
 date: Sat, 15 Oct 2016 21:51:13 +0000
+description: "I'm starting a new tradition of reflecting on who inspired me in the past year and why."
 draft: false
-tags: ['Blog']
+tags: ['review','inspirations']
+resources:
+- name: "featured-image"
+  src: "20190601_Inspirations_2017.png"
+
 ---
 
 I'm convinced that we all have our inspirations. We're inspired by actions, ways of thinking and creations of other people. At least that's what I'm experiencing. We socialize all the time and gravitate towards like minded people. The internet has brought us closer together. Everyone can express themselves freely and without any gatekeeper these days. Of course this makes for a lot of content in varying degrees of quality which permanently tries to gain our attention. In this piece I want to show you the people who inspired me most in 2016 and why. Some of them changed the way I produce my content, some of them inspired my thinking and all of them confirm a few things I've always known to be true.
