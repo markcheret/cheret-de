@@ -255,7 +255,7 @@ enableEmoji = true
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= '<a rel="license external nofollow noopener noreffer" href="/legal/license" target="_self">MIT</a>'
+    license= '<a rel="license" href="/legal/license" target="_self">MIT</a>'
 
   # Section (all posts) page config
   [params.section]
@@ -277,7 +277,7 @@ enableEmoji = true
 
   # Comment config
   [params.comment]
-    enable = true
+    enable = false
     [params.comment.remark42]
       enable = false
       host = "https://comments.upagge.ru"
