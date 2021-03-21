@@ -77,6 +77,7 @@ According to prominent research, anyone grieving the loss of a loved one or comi
 3. Bargaining
 4. Depression
 5. Acceptance
+
 </div>
 <div style="padding:5px;">
 
