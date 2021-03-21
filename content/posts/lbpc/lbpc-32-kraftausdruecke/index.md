@@ -1,6 +1,6 @@
 ---
 title: 'LBPC#032 - Kraftausdrücke'
-date: Sun, 17 Feb 2015 15:50:44 +0000
+date: Mon, 23 Feb 2015 15:50:44 +0000
 lastmod: Fri, 19 Mar 2021 02:30:02 +0100
 description: "Aus dem Archiv des Lifebeat podcast: Folge 32 - Kraftausdrücke"
 draft: false
