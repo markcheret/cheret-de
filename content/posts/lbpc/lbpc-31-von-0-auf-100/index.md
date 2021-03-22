@@ -8,7 +8,7 @@ tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "/images/lbpc-header.jpg"
+  src: "lbpc-header.jpg"
 lang: "de"
 url: "2015/02/lbpc-031-von-0-auf-100/"
 upd: "This is a post from the archives of my German website."
@@ -17,6 +17,8 @@ upd: "This is a post from the archives of my German website."
 ## LBPC#031 &#8211; von 0 auf 100
 
 {{< youtube KsupYW-dOUg >}}
+
+{{< music url="lbpc-031-von-0-auf-100-20150220.mp3" name="LBPC#031 - von 0 auf 100" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
