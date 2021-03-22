@@ -3,7 +3,7 @@
 
 ## LBPC#032 &#8211; Kraftausdrücke
 
-{{< music url="LBPC032.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-032-kraftausdruecke-20150223.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 

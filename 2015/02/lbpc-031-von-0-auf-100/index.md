@@ -5,6 +5,8 @@
 
 {{< youtube KsupYW-dOUg >}}
 
+{{< music url="lbpc-031-von-0-auf-100-20150220.mp3" name="LBPC#031 - von 0 auf 100" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+
 ## Shownotes
 
 ### 1. Part

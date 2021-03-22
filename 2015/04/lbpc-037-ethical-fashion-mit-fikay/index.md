@@ -5,7 +5,7 @@
 
 ### LBPC#037 - Ethical Fashion mit Fikay
 
-{{< music url="lbpc-37-interview-fikay.mp3" name="LBPC#037 - Ethical Fashion mit Fikay" artist="Mark Cheret & Karlo Baker" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-37-interview-fikay-20150416.mp3" name="LBPC#037 - Ethical Fashion mit Fikay" artist="Mark Cheret & Karlo Baker" cover="/images/lifebeat-logo180.jpg" >}}
 
 ### Shownotes
 
