@@ -1,14 +1,14 @@
 ---
 title: 'LBPC#031 – Von 0 auf 100'
 date: Fri, 20 Feb 2015 14:12:42 +0000
-lastmod: Sun, 22 Mar 2021 12:02:02 +0100
+lastmod: Mon, 22 Mar 2021 12:02:02 +0100
 description: "Tiefpunkt im Leben von Mark Cheret und Neuanfang - Hörergeschenke und Feedback"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "lbpc-header.jpg"
+  src: "lbpc-031-feature.jpg"
 lang: "de"
 url: "2015/02/lbpc-031-von-0-auf-100/"
 upd: "This is a post from the archives of my German website."
