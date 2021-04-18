@@ -20,7 +20,10 @@ upd: "This is a post from the archives of my German website."
 
 ## Shownotes
 
-Ethical Fashion ist ein immer mehr in Mode kommendes Konzept, bei dem die getragene Kleidung in ihrem gesamten Herstellungsprozess ethischen Prinzipien folgt. Accessoires von Fikay Fashion bringen alle ihre eigene Geschichte mit.
+- endlich ein neues Intro Jingle
+- Vocoder vs. Autotune
+- der emotional schwierige und gleichzeitig ironische Abgang von Paul Walker
+- [Amhera das erste mal auf einem Pferd](https://www.youtube.com/watch?v=ZO_X8e7Zrd0&ab_channel=Urgestain)
 
 Teilnehmer:
 Mark Cheret und Samuel Antosch
