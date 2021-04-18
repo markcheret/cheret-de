@@ -2,7 +2,7 @@
 title: 'LBPC#032 - Kraftausdrücke'
 date: Mon, 23 Feb 2015 15:50:44 +0000
 lastmod: Fri, 19 Mar 2021 02:30:02 +0100
-description: "Aus dem Archiv des Lifebeat podcast: Folge 32 - Kraftausdrücke"
+description: "LBPC#032 - Kraftausdrücke: in Medien und im Alltag. Kraftausdrücke ein Fehler?"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
@@ -14,7 +14,9 @@ url: "2015/02/lbpc-032-kraftausdruecke/"
 upd: "This is a post from the archives of my German website."
 ---
 
-## LBPC#032 &#8211; Kraftausdrücke
+## LBPC#032 - Kraftausdrücke
+
+in Medien und im Alltag. Kraftausdrücke ein Fehler?
 
 {{< music url="lbpc-032-kraftausdruecke-20150223.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
