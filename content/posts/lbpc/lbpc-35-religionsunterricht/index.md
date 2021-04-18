@@ -8,7 +8,7 @@ tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "lbpc-header.jpg"
+  src: "lbpc-35-feature.jpg"
 lang: "de"
 url: "2015/03/lbpc-035-religionsunterricht/"
 upd: "This is a post from the archives of my German website."
