@@ -2,7 +2,7 @@
 title: 'LBPC#035 - Religionsunterricht'
 date: Thu, 12 Mar 2015 12:23:42 +0000
 lastmod: Fri, 18 Apr 2021 11:58:02 +0100
-description: "Aus dem Archiv des Lifebeat podcast: Folge 35 - Religionsunterricht"
+description: "LBPC#035 - Religionsunterricht: welche Themengebiete wir uns für den Religionsunterricht wünschen würden"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
