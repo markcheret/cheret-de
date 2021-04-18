@@ -1,6 +1,6 @@
 ---
 title: 'LBPC#030 – Signature move'
-date: Fri, 13 Feb 2015 22:39:44 +0100
+date: Mon, 16 Feb 2015 22:39:44 +0100
 lastmod: Fri, 18 Apr 2021 03:15:02 +0100
 description: "Zusammen mit Amhera Strax rede ich über den sogenannten Signature Move, Asylkultur und kulturelle Identität der Bundesländer Deutschlands"
 draft: false
@@ -16,7 +16,7 @@ upd: "This is a post from the archives of my German website."
 
 ## LBPC#030 – Signature Move
 
-{{< music url="lbpc-30-signature-move-20150213.mp3" name="LBPC#030 – Signature Move" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-30-signature-move-20150216.mp3" name="LBPC#030 – Signature Move" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
@@ -36,4 +36,4 @@ upd: "This is a post from the archives of my German website."
 Teilnehmer:
 Mark Cheret und Samuel Antosch
 
-Diese Folge wurde am Freitag, 13.02.2015 produziert.
+Diese Folge wurde am Montag, 16.02.2015 produziert.
