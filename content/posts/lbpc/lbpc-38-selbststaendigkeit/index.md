@@ -1,7 +1,7 @@
 ---
-title: 'LBPC#037 – Ethical Fashion mit Fikay'
-date: Thu, 16 Apr 2015 22:39:44 +0100
-lastmod: Fri, 19 Mar 2021 05:36:02 +0100
+title: 'LBPC#038 – Selbstständigkeit'
+date: Thu, 23 Apr 2015 13:23:43 +0100
+lastmod: Fri, 18 Apr 2021 05:40:02 +0100
 description: "Interview mit Christian Reiweger über die Voraussetzungen und mögliche Hürden, um in die Selbstständigkeit zu starten."
 draft: false
 tags: ['podcast']
