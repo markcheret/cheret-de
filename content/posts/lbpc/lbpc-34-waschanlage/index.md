@@ -2,7 +2,7 @@
 title: 'LBPC#034 - Waschanlage'
 date: Thu, 05 Mar 2015 12:23:42 +0000
 lastmod: Fri, 18 Apr 2021 11:29:02 +0100
-description: "Aus dem Archiv des Lifebeat podcast: Folge 34 - Waschanlage"
+description: "LBPC#034 - Waschanlage: um den Motorblock einmal grundlegend zu Reinigen"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
