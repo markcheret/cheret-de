@@ -3,7 +3,7 @@
 
 ## LBPC#030 – Signature Move
 
-{{< music url="lbpc-30-signature-move-20150213.mp3" name="LBPC#030 – Signature Move" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-30-signature-move-20150216.mp3" name="LBPC#030 – Signature Move" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
@@ -23,4 +23,4 @@
 Teilnehmer:
 Mark Cheret und Samuel Antosch
 
-Diese Folge wurde am Freitag, 13.02.2015 produziert.
+Diese Folge wurde am Montag, 16.02.2015 produziert.
