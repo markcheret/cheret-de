@@ -1,6 +1,6 @@
 ---
 title: 'LBPC#042 - Bergmuffel'
-date: Wed, 26 June 2015 15:27:44 +0100
+date: Wed, 26 Jun 2015 15:27:44 +0100
 lastmod: Mon, 19 Apr 2021 01:16:02 +0100
 description: "LBPC#042 - Bergmuffel: Die geilsten Berge der Welt vor der Nase und fast nie oben?"
 draft: false
