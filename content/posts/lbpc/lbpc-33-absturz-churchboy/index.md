@@ -2,7 +2,7 @@
 title: 'LBPC#033 - vom Absturz zum Churchboy'
 date: Mon, 27 Feb 2015 11:50:44 +0000
 lastmod: Fri, 18 Apr 2021 11:29:02 +0100
-description: "Aus dem Archiv des Lifebeat podcast: Folge 33 - Vorstellung Amehra"
+description: "LBPC#033 - vom Absturz zum Churchboy"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
