@@ -1,6 +1,6 @@
 ---
 title: 'LBPC#035 - Religionsunterricht'
-date: Thu, 13 Mar 2015 12:23:42 +0000
+date: Thu, 12 Mar 2015 12:23:42 +0000
 lastmod: Fri, 18 Apr 2021 11:58:02 +0100
 description: "Aus dem Archiv des Lifebeat podcast: Folge 35 - Religionsunterricht"
 draft: false
@@ -18,11 +18,12 @@ upd: "This is a post from the archives of my German website."
 
 welche Themengebiete wir uns für den Religionsunterricht wünschen würden
 
-{{< music url="lbpc-35-religionsunterricht-20150313.mp3" name="LBPC#035 - Religionsunterricht" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-35-religionsunterricht-20150312.mp3" name="LBPC#035 - Religionsunterricht" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
 heute mit Gast Tina Baumgartner
+
 - unterschied zwischen Religion und Glaube
 - katholischer Religionsunterricht
 - Fanatiker
