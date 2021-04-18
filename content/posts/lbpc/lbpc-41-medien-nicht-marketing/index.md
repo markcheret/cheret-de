@@ -18,7 +18,7 @@ upd: "This is a post from the archives of my German website."
 
 Kommunikation der eigenen Marke, des eigenen Produktes oder der eigenen Dienstleistung
 
-{{< music url="lbpc-40-rip-paul-walker-20150512.mp3" name="LBPC#041 - Medien nicht Marketing" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-041-medien-nicht-marketing-20150520.mp3" name="LBPC#041 - Medien nicht Marketing" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
