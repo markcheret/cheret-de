@@ -16,7 +16,7 @@ heute mit Gast Tina Baumgartner
 - Fanatiker
 
 Teilnehmer:
-Mark Cheret und Samuel Antosch
+Mark Cheret, Samuel Antosch und Tina Baumgartner
 
 Die Umbenennung der Stadt Freilassing in “Salzburghofen” war ein Aprilscherz der BGLand24 Redaktion.
 

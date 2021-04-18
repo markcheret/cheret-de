@@ -1,7 +1,9 @@
 # LBPC#032 - Kraftausdrücke
 
 
-## LBPC#032 &#8211; Kraftausdrücke
+## LBPC#032 - Kraftausdrücke
+
+in Medien und im Alltag. Kraftausdrücke ein Fehler?
 
 {{< music url="lbpc-032-kraftausdruecke-20150223.mp3" name="LBPC#032 - Kraftausdrücke" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 

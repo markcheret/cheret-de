@@ -1,7 +1,9 @@
 # LBPC#031 – Von 0 auf 100
 
 
-## LBPC#031 &#8211; von 0 auf 100
+## LBPC#031 - von 0 auf 100
+
+Tiefpunkt im Leben von Mark Cheret und Neuanfang - Hörergeschenke und Feedback
 
 {{< youtube KsupYW-dOUg >}}
 
