@@ -8,7 +8,7 @@ tags: ['podcast']
 categories: ['lifebeat podcast']
 resources:
 - name: "featured-image"
-  src: "lbpc-header.jpg"
+  src: "lbpc-41-feature.jpg"
 lang: "de"
 url: "2015/05/lbpc-041-medien-nicht-marketing/"
 upd: "This is a post from the archives of my German website."
@@ -18,7 +18,7 @@ upd: "This is a post from the archives of my German website."
 
 Kommunikation der eigenen Marke, des eigenen Produktes oder der eigenen Dienstleistung
 
-{{< music url="lbpc-041-medien-nicht-marketing-20150520.mp3" name="LBPC#041 - Medien nicht Marketing" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
+{{< music url="lbpc-41-medien-nicht-marketing-20150520.mp3" name="LBPC#041 - Medien nicht Marketing" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
 
