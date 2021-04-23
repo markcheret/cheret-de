@@ -19,7 +19,7 @@ for his success through combining multiple talents
 
 ## Shaun Evans
 
-for making a seemingly bizarre thing his career 
+for making a seemingly bizarre thing his career
 
 ## Casey Neistat
 
@@ -27,7 +27,7 @@ for relentless devotion to one thing
 
 ## James Cameron
 
-for boundless creativity in visual storytelling 
+for boundless creativity in visual storytelling
 
 ## Peter Jackson
 
