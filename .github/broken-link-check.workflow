@@ -13,6 +13,8 @@ action "linkcheck" {
   needs = "filter-to-pr-open-synced"
   secrets = ["GITHUB_TOKEN"]
   env = {
+    HUGO_CONFIG = "./config.toml"
+    HUGO_ROOT = "./"
     HUGO_FINAL_URL = "https://cheret.de"
   }
 }
