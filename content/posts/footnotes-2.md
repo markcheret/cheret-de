@@ -1,5 +1,6 @@
 ---
 title: 'footnotes'
+redirectURL: https://cheret.tech/footnotes/
 date: Sat, 17 May 2014 07:47:40 +0000
 draft: false
 url: '/plugins/footnotes-2'
