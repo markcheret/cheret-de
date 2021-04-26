@@ -9,4 +9,4 @@ description: 'content for the footnotes WordPress plugin have moved to a differe
 
 ## footnotes moved
 
-Thanks for stopping by. I created a special website for [footnotes. Check it out here](https://cheret.org/footnotes), please.
+Thanks for stopping by. I created a special website for [footnotes. Check it out here](https://cheret.tech/footnotes), please.
