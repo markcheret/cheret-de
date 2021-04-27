@@ -23,13 +23,13 @@ I don’t mean that in a dependency relationship kind of way. Absolutely not! I�
 
 So here are some ways to bring value to your network. Feel free to contribute in the comments!
 
-*   _Just be there._ Merely being present at a meeting or event and thus interacting with people will make you aware of someone’s needs.
-*   _Tune in on “Channel Opportunity.”_ Not every chance to contribute will bluntly cross your path. Often times the golden opportunities are the ones hidden a few layers deep.
-*   _Take the lead._ If you’re a natural leader or someone burning for a certain topic, don’t be afraid to take the lead. It’s not always the easiest thing to do and yes, you can make mistakes along the way. People will be thankful, though, if someone took it upon them to get things moving and make things happen! That’s where you can fill the spot and take the leadership role on this matter.
-*   _Be communicative._ If something you don’t approve of keeps happening, talk about it gently and get it off your chest. It just hurts if you talk behind people\`s backs. Your mentioning something can be the tipping point someone’s secretly been waiting for to get out of their heads as well. They were just biting their lips all the time.
-*   _Pass your knowledge along._ If it’s called for, you can contribute by sharing your insights. Give a talk / keynote speech.
-*   _Involve others._ George tells you about his need. You know Mary who can help George out? Involve Mary after you’ve asked George permission to do so. It will reflect positively on you for both George and Mary!
-*   _Make things happen._ Sometimes you’re the only way for someone to get their stuff in order. I’ve had this happen a number of times. A business quickly needed some good marketing materials and I had free spots on my schedule to create and ship them in time. Making things happen helped me and their business out.
+* _Just be there._ Merely being present at a meeting or event and thus interacting with people will make you aware of someone’s needs.
+* _Tune in on “Channel Opportunity.”_ Not every chance to contribute will bluntly cross your path. Often times the golden opportunities are the ones hidden a few layers deep.
+* _Take the lead._ If you’re a natural leader or someone burning for a certain topic, don’t be afraid to take the lead. It’s not always the easiest thing to do and yes, you can make mistakes along the way. People will be thankful, though, if someone took it upon them to get things moving and make things happen! That’s where you can fill the spot and take the leadership role on this matter.
+* _Be communicative._ If something you don’t approve of keeps happening, talk about it gently and get it off your chest. It just hurts if you talk behind people\`s backs. Your mentioning something can be the tipping point someone’s secretly been waiting for to get out of their heads as well. They were just biting their lips all the time.
+* _Pass your knowledge along._ If it’s called for, you can contribute by sharing your insights. Give a talk / keynote speech.
+* _Involve others._ George tells you about his need. You know Mary who can help George out? Involve Mary after you’ve asked George permission to do so. It will reflect positively on you for both George and Mary!
+* _Make things happen._ Sometimes you’re the only way for someone to get their stuff in order. I’ve had this happen a number of times. A business quickly needed some good marketing materials and I had free spots on my schedule to create and ship them in time. Making things happen helped me and their business out.
 
 ### Please contribute
 
