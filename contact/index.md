@@ -24,3 +24,4 @@ Or use this contact form to send me an email.
   <button type="submit" style="align-items: flex-start; appearance: auto; background-color: rgb(239, 239, 239); border-bottom-color:rgb(118, 118, 118); border-style: outset; border-width:2px; border-color rgb(118, 118, 118); box-sizing: border-box; color rgb(0, 0, 0); cursor:pointer; display: block; float:right; font-family:'Allerta Stencil'; font-size: 18px; height: 49px; padding:11px; text-align:center;">Send</button>
 
 </form>
+
