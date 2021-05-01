@@ -17,7 +17,7 @@ A forward-thinking, hot-blooded visionary from Iceland, Viktor is a **force to b
 
 An early leader in a small group of women in tech **helping** each other **grow** in their **careers**, Alaina realised that if she were **willing to step up** and be in the spotlight, she'd be able to make everyone else around her **much more powerful** as well.
 
-She stepped up as the first CEO of Women Who Code and incorporated the nonprofit, which now has 80,000 members worldwide. She inspires me by **keeping it simple and straightforward**. "I focus on things within my control. This doesn't include things that occurred in the past, so I can **devote my energy to creating strategies and plans** to help move our team and mission forward."
+She stepped up as the first CEO of Women Who Code and incorporated the non-profit, which now has 80,000 members worldwide. She inspires me by **keeping it simple and straightforward**. "I focus on things within my control. This doesn't include things that occurred in the past, so I can **devote my energy to creating strategies and plans** to help move our team and mission forward."
 
 ## Simon Sinek
 

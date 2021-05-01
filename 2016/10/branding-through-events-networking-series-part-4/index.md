@@ -13,7 +13,7 @@ So I decided to take control of the matter at hand. As an immediate measure I dr
 
 * _What type of event is it?_ It should be primarily networking focused.
 * _Who will I meet there?_ I wanted to see sought after thought leaders while also reconnecting with people I already knew.
-* _What is it all about?_ Forums of forward thinking folks. No lamenting about the past. No club centered talks all the time.
+* _What is it all about?_ Forums of forward thinking folks. No lamenting about the past. No club-centred talks all the time.
 * _Business aspect?_ Is it going to help my business out?
 
 Looking at this list it should be quite easy to check if an event fits your bill and the quality you’re after. I wanted to brand myself as a **forward thinking businessman with an understanding of global issues and a solution based thinking using technology**. So I’ve checked every invitation coming my way if it did have anything to do with the kind of branding I was after. Over time I got connected to many of the people occupying these spaces. And that at an accelerated pace when comparing it to my previous period of aimlessly attending each and every event. People around me now know I’m not a jack-of-all-trades but you can find me leaning towards the entrepreneurial / startup / tech kind of events rather than a political gathering or a panel discussion.
