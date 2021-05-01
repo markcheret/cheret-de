@@ -153,7 +153,7 @@ This is where I will continue my work on this article, describing the whole proc
     [Are you motivated by pain or motivated by gain?](https://conorneill.com/2016/10/16/are-you-motivated-by-pain-or-motivated-by-gain/)
 
 [^4]:
-    [Mourning and the 5 Stages of Grief](https://psychcentral.com/lib/the-5-stages-of-loss-and-grief/)
+    [Mourning and the 5 Stages of Grief](https://psychcentral.com/lib/the-5-stages-of-loss-and-grief)
 
 [^5]:
     [How the Brain Seeks Pleasure and Avoids Pain](https://www.technologyreview.com/2017/06/27/150948/how-the-brain-seeks-pleasure-and-avoids-pain/), [Pleasure principle (psychology)](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology))
