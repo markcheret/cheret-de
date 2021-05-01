@@ -23,7 +23,7 @@ Always travelling under the flag of JCI to network, make things happen and "just
 
 ## [Stephen Eckert](https://twitter.com/s_eckert)
 
-Stephen, I had the opportunity to meet you away from keyboard in Cologne so I jumped at the opportunity. From what I could gather in all the RAW Talks, you are usually the behind the scenes man, helping to make the show happen. I'm repeating here what I tweetet at you: You are a hard working, devoted and knowledgable team player! {{< tweet 780737254121582592 >}} And that is really inspiring. The diligence in which you were filming and relentlessly looking for the best sound! It really was an honour meeting you. Don't forget about this event we wanted to talk about, though :)
+Stephen, I had the opportunity to meet you away from keyboard in Cologne so I jumped at the opportunity. From what I could gather in all the RAW Talks, you are usually the behind the scenes man, helping to make the show happen. I'm repeating here what I tweeted at you: You are a hard working, devoted and knowledgable team player! {{< tweet 780737254121582592 >}} And that is really inspiring. The diligence in which you were filming and relentlessly looking for the best sound! It really was an honour meeting you. Don't forget about this event we wanted to talk about, though :)
 
 ## [Twitter](https://www.twitter.com)
 
