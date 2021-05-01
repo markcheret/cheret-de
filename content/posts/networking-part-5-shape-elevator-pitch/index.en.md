@@ -20,7 +20,7 @@ One of the most important ways to brand yourself and let people know what you do
 When I started networking, I was very shy and holding back a lot and didn't really know how to make a good introduction. I was caught up in my world of technical terms and the things I surround myself with on a daily basis. Here's what my first elevator pitch may have sounded like:
 
 {{< admonition type="danger" title="First try" open="true" >}}
-My name is Mark and I'm really into Google Analytics, WordPress and Photoshop. I constantly keep up with changes and improvements that come out. I'm in knee deep with this internet stuff. Also: esthetics! Helvetica Neue is just a blessing, don't you think?!
+My name is Mark and I'm really into Google Analytics, WordPress and Photoshop. I constantly keep up with changes and improvements that come out. I'm in knee deep with this internet stuff. Also: aesthetics! Helvetica Neue is just a blessing, don't you think?!
 {{< /admonition >}}
 
 That definitely made me come across as a tech nerd but not as someone you would hire to solve your technical issue or even involve me as a technical co-founder. Over the course of many of those early introductions and people not really being interested in my business, I've realized that something needed to change!
@@ -37,7 +37,7 @@ So this really gave everyone a perspective on how they could involve me to solv
 
 ## Broader, personal and wow
 
-Fast forward to now and I make it sound broader, a bit bigger and I also throw in a bit of a mystery and open endedness:
+Fast forward to now and I make it sound broader, a bit bigger and I also throw in a bit of a mystery and being open-ended:
 
 {{< admonition type="success" title="Third try" open="true" >}}
 I'm Mark and I call myself "visual storyteller". I do digital projects for the Fortune Global 500 for a living.
