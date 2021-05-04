@@ -21,5 +21,3 @@ upd: "this article is a work in progress and is being updated while I go through
 ## Net-positive / Productive coping
 
 ## Authentic Self-Expression
-
-## Sexual pain and pleasure / BDSM
