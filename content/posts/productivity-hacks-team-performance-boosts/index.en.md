@@ -4,6 +4,7 @@ date: Tue, 11 May 2021 21:58:42 +0200
 description: "My talk about Productivity Hacks and Team Performance Boosts at rethink.community"
 draft: false
 tags: ['productivity','team','SCRUM','agile','hacks']
+categories: ['exponential coaching']
 resources:
 - name: "featured-image"
   src: "productivity-hacks-team-performance-boosts.png"
