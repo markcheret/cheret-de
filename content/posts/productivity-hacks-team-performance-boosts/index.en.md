@@ -9,7 +9,7 @@ resources:
   src: "productivity-hacks-team-performance-boosts.png"
 ---
 
-How can you apply agile practices that you might know from SCRUM to your daily routine? Can you boost your output while staying motivated, energized, and faithful to your core?
+How can you apply agile practices that you might know from SCRUM to your daily routine? Can you boost your output while staying motivated, energised, and faithful to your core?
 
 How can you take your team to the next level in a remote working environment? Let me take you on a journey to healthy and sustainable productivity with abundant space for fun, relaxation, and above all - yourself.
 <!--more-->
