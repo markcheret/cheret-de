@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: 'pain and pleasure'
 date: Wed, 19 Aug 2020 19:51:23 +0100
 lastmod: Sat, 20 Mar 2021 10:02:04 +0100
