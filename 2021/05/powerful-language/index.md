@@ -59,7 +59,7 @@ An example in practice when talking to your kid would be:
 Turn a jealousy driven projection into a development opportunity and embrace discomfort:
 
 - Unconscious: I don't want you to have contact with that creep.
-- Powerful: I'm happy for you that you found a mentor. Please introduce me, so I can get to know this person and learn more about you at the same time.
+- Powerful: I hear you met a very interesting person. Please tell me what fascinates you about them.
 
 ## A fluid process
 
