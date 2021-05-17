@@ -4,7 +4,7 @@
 To understand the concept of powerful language, let's take a closer look at what powerful language and behaviour is and what it isn't. This way we can gain insight into the difference between the powerful and the unconscious.
 <!--more-->
 
-## What are the powerful and the mighty doing?
+## What are the powerful doing?
 
 - proclaim
 - postulate
