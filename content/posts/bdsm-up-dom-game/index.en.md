@@ -11,6 +11,10 @@ resources:
 hiddenFromHomePage: true
 ---
 
+{{< admonition type="note" title="Why?" open="true" >}}
+I'm publishing this article here on my coaching website as I'm convinced that practices and values present in the BDSM community can help a leader in this modern world grasp fundamental knowledge about humans and leadership and gain valuable insights into behaviour and dynamics, even if they don't know much about BDSM or don't want to practice it themselves.
+{{< /admonition >}}
+
 As a **Dominant** in your D/s type of play, you already put a huge amount of **care and consideration** into creating a [**safe, sane and consensual**](https://en.wikipedia.org/wiki/Safe,_sane_and_consensual) scene for your submissive with the intent to **lead to deeper pleasure** and explore boundaries and push them ever so slightly for growth. The growth of both Dominant and submissive. There is a perceived discomfort in going further and this is the exploration and negotiation between the two that leads to more depth.
 
 ## Seek discomfort
