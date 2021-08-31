@@ -15,4 +15,6 @@ upd: "this article is a work in progress and is being updated while I go through
 
 ## Unitiy in Diversity
 
+I picked this one up during the JCI European Academy 2017
+
 ## Uniqueness and Authenticity
