@@ -13,7 +13,7 @@ upd: "this article is a work in progress and is being updated while I go through
 
 ## Uniqueness and Unity
 
-## Unitiy in Diversity
+## Unity in Diversity
 
 I picked this one up during the JCI European Academy 2017
 
