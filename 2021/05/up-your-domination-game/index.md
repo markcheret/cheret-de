@@ -9,8 +9,8 @@ As a **Dominant** in your D/s type of play, you already put a huge amount of **c
 
 ## Seek discomfort
 
-You lead your submissive and they want you to take them "two steps" further than you feel comfortable.
-![alt text](up-your-domination-game-schematic-1.jpg "Go two steps further than you feel comfortable")
+You lead your submissive and they want you to take them "two steps" further than you feel comfortable with.
+![alt text](up-your-domination-game-schematic-1.jpg "Go two steps further than you feel comfortable with")
 
 The exercise and art form now becomes to seek discomfort for growth and pleasure using full force of "dom confidence" and lead into the unknown white spots on your map and plant your flag there. A land to be discovered together while drawing the map. The submissive needs to surrender and trust and listen to their body. From personal experience and conversation I know that the element of trust needs to propagate from heart to mind to body.
 
