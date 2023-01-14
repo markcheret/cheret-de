@@ -107,102 +107,7 @@ enableEmoji = true
           index = "index.en"
           appID = ""
           searchKey = ""
-      # Home page config
-      [languages.en.params.home]
-        # amount of RSS pages
-        rss = 10
-        # Home page profile
-        [languages.en.params.home.profile]
-          enable = true
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
-          # URL of avatar shown in home page
-          avatarURL = "/images/20191020_Portrait_Mark_Cheret_Full.jpg"
-          # title shown in home page (HTML format is supported)
-          title = "Mark Cheret"
-          # subtitle shown in home page (HTML format is supported)
-          subtitle = "<a href='https://cheret.de'>Exponential Coach</a> | <a href='https://cheret.tech'>Cyber Security Consultant</a> | <a href='https://cheret.org'>Maker. Artist. Sculptor.</a>"
-          # whether to show social links
-          social = true
-          # disclaimer (HTML format is supported)
-          disclaimer = ""
-        # Home page posts
-        [languages.en.params.home.posts]
-          enable = true
-          # special amount of posts in each home posts page
-          paginate = 3
-      # Social config in home page
-      [languages.en.params.social]
-        GitHub = "markcheret"
-        Linkedin = "markcheret"
-        Twitter = "markcheret"
-        Instagram = "markcheret/"
-        Facebook = "mark.cheret"
-        Telegram = ""
-        Medium = "@markcheret"
-        Gitlab = ""
-        Youtubelegacy = ""
-        Youtubecustom = ""
-        Youtubechannel = "UCwJUxXz7mCJR0RPepeggD1Q"
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = "markcheret/"
-        Stackoverflow = "2907686/mark-cheret"
-        Weibo = ""
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = ""
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = "cheret"
-        Paypal = "markcheret"
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = "23035098-mark-cheret"
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = ""
-        Kickstarter = ""
-        Patreon = ""
-        Steam = "markcheret/"
-        Twitch = "markcheret"
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = ""
-        Douban = ""
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = ""
-        Wordpress = "markcheret"
-        Vine = ""
-        Googlescholar = ""
-        Researchgate = ""
-        Thingiverse = ""
-        Devto = ""
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = ""
-        Email = "mark@cheret.de"
-        DockerHub = "markcheret"
-        Discord = "418309576476327937"
-        Leanpub = ""
-        Udemy = ""
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@markcheret"
-          prefix = "https://noc.social/"
+
   [languages.de]
     weight = 2
     # language code
@@ -211,6 +116,43 @@ enableEmoji = true
     languageName = "Deutsch"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
+  [languages.de.menu]
+  [[languages.de.menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/de/posts/"
+    # title will be shown when you hover on this menu link.
+    title = ""
+    weight = 2
+  [[languages.de.menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/de/tags/"
+    title = ""
+    weight = 3
+  [[languages.de.menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Kategorien"
+    url = "/de/categories/"
+    title = ""
+    weight = 4
+ # [[languages.de.menu.main]]
+ #   identifier = "about"
+ #   pre = ""
+ #   post = ""
+ #   name = "about"
+ #   url = "/about/"
+ #   title = "about Mark Cheret"
+ #   weight = 1
+
 
 [params]
   # uBlogger theme version
@@ -246,6 +188,31 @@ enableEmoji = true
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
+
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/20191020_Portrait_Mark_Cheret_Full.jpg"
+      # title shown in home page (HTML format is supported)
+      title = "Mark Cheret"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "<a href='https://cheret.de'>Exponential Coach</a> | <a href='https://cheret.tech'>Cyber Security Consultant</a> | <a href='https://cheret.org'>Maker. Artist. Sculptor.</a>"
+      # whether to show social links
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 3
 
   # Footer config
   [params.footer]
@@ -524,6 +491,79 @@ enableEmoji = true
     polyfill = false
     # whether to use object-fit-images to be compatible with older browsers
     objectFit = false
+
+  # Social config in home page
+  [params.social]
+    GitHub = "markcheret"
+    Linkedin = "markcheret"
+    Twitter = "markcheret"
+    Instagram = "markcheret/"
+    Facebook = "mark.cheret"
+    Telegram = ""
+    Medium = "@markcheret"
+    Gitlab = ""
+    Youtubelegacy = ""
+    Youtubecustom = ""
+    Youtubechannel = "UCwJUxXz7mCJR0RPepeggD1Q"
+    Tumblr = ""
+    Quora = ""
+    Keybase = ""
+    Pinterest = ""
+    Reddit = ""
+    Codepen = ""
+    FreeCodeCamp = ""
+    Bitbucket = "markcheret/"
+    Stackoverflow = "2907686/mark-cheret"
+    Weibo = ""
+    Odnoklassniki = ""
+    VK = ""
+    Flickr = ""
+    Xing = ""
+    Snapchat = ""
+    Soundcloud = ""
+    Spotify = ""
+    Bandcamp = "cheret"
+    Paypal = "markcheret"
+    Fivehundredpx = ""
+    Mix = ""
+    Goodreads = "23035098-mark-cheret"
+    Lastfm = ""
+    Foursquare = ""
+    Hackernews = ""
+    Kickstarter = ""
+    Patreon = ""
+    Steam = "markcheret/"
+    Twitch = "markcheret"
+    Strava = ""
+    Skype = ""
+    Whatsapp = ""
+    Zhihu = ""
+    Douban = ""
+    Angellist = ""
+    Slidershare = ""
+    Jsfiddle = ""
+    Deviantart = ""
+    Behance = ""
+    Dribbble = ""
+    Wordpress = "markcheret"
+    Vine = ""
+    Googlescholar = ""
+    Researchgate = ""
+    Thingiverse = ""
+    Devto = ""
+    Gitea = ""
+    XMPP = ""
+    Matrix = ""
+    Bilibili = ""
+    Email = "mark@cheret.de"
+    DockerHub = "markcheret"
+    Discord = "418309576476327937"
+    Leanpub = ""
+    Udemy = ""
+    RSS = true
+    [params.social.Mastodon]
+      id = "@markcheret"
+      prefix = "https://noc.social/"
 
 # Markup related configuration in Hugo
 [markup]
