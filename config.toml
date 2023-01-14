@@ -203,6 +203,14 @@ enableEmoji = true
         [languages.en.params.social.Mastodon]
           id = "@markcheret"
           prefix = "https://noc.social/"
+  [languages.de]
+    weight = 2
+    # language code
+    languageCode = "de"
+    # language name
+    languageName = "Deutsch"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = false
 
 [params]
   # uBlogger theme version
